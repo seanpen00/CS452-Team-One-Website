@@ -30,6 +30,21 @@
 
 .screenshot {
   margin: 5px;
+  max-width: 45%;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.gif {
+  max-width: 45%;
+  margin: 5px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.caption {
+  margin: 0px;
+  margin-bottom: 50px;
 }
 
 @keyframes App-logo-spin {

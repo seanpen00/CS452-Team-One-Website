@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CS452-Team-One-Website/static/css/main.df7b5410.css",
+    "main.js": "/CS452-Team-One-Website/static/js/main.10dcc8c0.js",
+    "static/js/787.d4aba7ab.chunk.js": "/CS452-Team-One-Website/static/js/787.d4aba7ab.chunk.js",
+    "static/media/pic1.PNG": "/CS452-Team-One-Website/static/media/pic1.2e25df0cd54654d5e010.PNG",
+    "static/media/loading.gif": "/CS452-Team-One-Website/static/media/loading.2b3bc25d22d16b936f33.gif",
+    "static/media/pic2.PNG": "/CS452-Team-One-Website/static/media/pic2.c6b1af39e5ebe18442be.PNG",
+    "static/media/talking.gif": "/CS452-Team-One-Website/static/media/talking.2f6a7370817181b147bb.gif",
+    "static/media/pic3.PNG": "/CS452-Team-One-Website/static/media/pic3.3cff6d435d9dc73c9ca9.PNG",
+    "static/media/thumbnail.PNG": "/CS452-Team-One-Website/static/media/thumbnail.4516a0a263c34983b9b0.PNG",
+    "static/media/logo.svg": "/CS452-Team-One-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CS452-Team-One-Website/index.html",
+    "main.df7b5410.css.map": "/CS452-Team-One-Website/static/css/main.df7b5410.css.map",
+    "main.10dcc8c0.js.map": "/CS452-Team-One-Website/static/js/main.10dcc8c0.js.map",
+    "787.d4aba7ab.chunk.js.map": "/CS452-Team-One-Website/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df7b5410.css",
+    "static/js/main.10dcc8c0.js"
+  ]
+}
