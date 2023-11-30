@@ -47,6 +47,16 @@
   margin-bottom: 50px;
 }
 
+.pfp {
+  width: 200px;
+}
+
+.caption {
+  font-size: small;
+  width: 90%;
+  margin: auto;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
